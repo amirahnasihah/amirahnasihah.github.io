@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=50&multiline=true&width=800&height=100&lines=Welcome+To+amirahnasihah's+Pages)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%234382BB&size=50&multiline=true&width=800&height=80&lines=welcome+to+amirahnasihah's+pages%F0%9F%A7%95%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=18&multiline=true&lines=Apa+Khabar%3F)](https://git.io/typing-svg)
 -->
