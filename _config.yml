@@ -1,4 +1,5 @@
 #theme: jekyll-theme-cayman
+theme: jekyll-theme-gridster
 
 full_rebuild: true
 name: Gridster
