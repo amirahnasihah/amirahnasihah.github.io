@@ -125,4 +125,4 @@ prose:
           help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
           type: "text"
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
