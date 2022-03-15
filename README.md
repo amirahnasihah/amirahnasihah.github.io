@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%23F7CE76&size=50&multiline=true&width=800&height=80&lines=welcome+to+amirahnasihah's+pages)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirahnasihah)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amirahnasihah)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amrhnshh)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube/amirahnasihah/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://amirahnasihah.hashnode.dev/)
 
